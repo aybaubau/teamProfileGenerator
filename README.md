@@ -9,7 +9,7 @@ This node cli app leverages inquirer to ask the user a series of questions about
 Run the following command to start the app, then follow the prompts:
 
 ~~~
-npm app.js
+node app.js
 ~~~
 
 Please see the below gif for a demonstration of app functionality:
